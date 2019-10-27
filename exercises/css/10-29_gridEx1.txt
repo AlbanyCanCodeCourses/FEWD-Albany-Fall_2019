@@ -1,0 +1,21 @@
+/* 
+* make item1 span the full width of the container
+
+* make item2 and item3 start on row 2 and span two columns
+
+* make item8 twice as tall and place above item2
+
+* make item13 span the whole width of the container except for the last row
+
+* make item16 start on column three and end on row nine
+
+* make item17 span the width of two columns from the end 
+
+* make items18 and item19 spand the width of two columns on the second to last row
+
+** make every fifth .item as wide as the container
+
+** make item20 span from coulmn1 to the second to last column and three times as tall
+
+
+ */
