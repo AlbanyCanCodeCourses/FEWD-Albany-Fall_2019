@@ -116,7 +116,7 @@ var firstName = "";
   */
 
 /**
-  * 10 divided by two is less than 20 divided by four
+  * 10 divided by two is less than or equal to 20 divided by four
   * @returns {boolean}
   */
 
@@ -131,7 +131,7 @@ var firstName = "";
   */
 
  /**
-   * one hundred eightseven is greater than fullName.length
+   * one hundred eightseven is less than or greater than fullName.length
    * @returns {boolean}
    */
  
