@@ -10,40 +10,40 @@
  */
 
 /////////////////////////////////
-///////////  Stings /////////////
+///////////  Strings /////////////
 /////////////////////////////////
 
 /**
  * create a variable and set the value to your first name
  *  ie: var fullName = "your full name"
  *  console.log(fullName)
- * @return {string}
+ * @returns {string}
  */
 
 var firstName = "";
 
 /**
  * Create a variable called middleName and set the value to your middle name.
- * @return {string}
+ * @returns {string}
  */
 
 /**
  * Create a variable called lastName and set the value to your last name.
- * @return {string}
+ * @returns {string}
  */
 
 /** Contactinate firstName, middleName and lastName. Store the result in a variable called fullName.
- * @return {string}
+ * @returns {string}
  */
 
 /**
  * Create a substring of the last three letters of fullName.
- * @return {string}
+ * @returns {string}
  */
 
 /**
  * Access the last letter in fullName.
- * @return {string}
+ * @returns {string}
  */
 
   //////////////////////////////////
@@ -53,18 +53,18 @@ var firstName = "";
 /**
  *
  * Create an array named fullNameArray. Using fullName, populate fullNameArray with the values of your first middle and last names.
- * @return {array}
+ * @returns {array}
  */
 
 /**
  * Access the values of your first, middle and last names from fullNameArray. Store the results in a greeting.
  * ie: var greeting = "hello, my name is @string @string @string ";
- * @return {string}
+ * @returns {string}
  */
 
 /**
  * Create an array of your five top favorite takeout foods.
- * @return {array}
+ * @returns {array}
  */
 
 /**
@@ -74,17 +74,17 @@ var firstName = "";
 
 /**
  * Add a new item to the beginning of the takeout array.
- * @return {string}
+ * @returns {string}
  */
 
 /**
  * Remove and item from then end of the takeout array. Store the result in a variable.
- * @return {string}
+ * @returns {string}
  */
 
 /**
  * Add a new item to the end of the takeout array.
- * @return {string}
+ * @returns {string}
  */
 
 /**
@@ -103,9 +103,9 @@ var firstName = "";
   */
 
 
-  //////////////////////////////////
-  ////// Equality Operations ///////
-  //////////////////////////////////
+  ///////////////////////////////////////////////
+  ////// Equality Operations and Booleans ///////
+  ///////////////////////////////////////////////
 
 
 // Evaluate the following statements for equality
@@ -131,7 +131,7 @@ var firstName = "";
   */
 
  /**
-   * one hundred eightseven is less than or greater than fullName.length
+   * one hundred eightseven is less than or equal than fullName.length
    * @returns {boolean}
    */
  
@@ -142,7 +142,7 @@ var firstName = "";
 
 /**
   * seventyfive or seventyfive and twentyfour times three
-  * @returns {boolean}
+  * @returns {number}
   */
 
 /**
@@ -151,12 +151,12 @@ var firstName = "";
   */
 /**
   * four plus three and six times eight 
-  * @returns {boolean}
+  * @returns {number}
   */
  
 /**
   * fullName[1] or fullName.length + 1
-  * @returns {boolean}
+  * @returns {string}
   */
 
 /**
