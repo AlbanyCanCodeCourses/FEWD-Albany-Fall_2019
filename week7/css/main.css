@@ -1,0 +1,44 @@
+.grid-container div.header {
+  background-image: url("https://picsum.photos/id/112/1300/200");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.content {
+
+}
+
+.grid-container div.sidebar #ad-photo {
+  background-image: url("https://picsum.photos/200/200");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+}
+
+.footer {
+
+}
+.social{
+  text-align: center;
+}
+.icon {
+  padding: 0 20px;
+}
+.item-5, .item-6, .item-7 {
+
+}
+
+
+
+
+.item-5{
+
+}
+.center-content {
+}
+.item-6 {
+}
+.item-7 {
+}

@@ -1,0 +1,41 @@
+div.item {
+  background: var(--blue);
+  padding: 20px;
+  font-size: 1.2em;
+  font-weight: 900;
+  color: #eee;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.grid-container {
+  display: grid;
+  gap: 20px;
+  grid-template-areas: 
+
+  "header header header header"
+  "content content content sidebar"
+  "content content content sidebar"
+  "content content content sidebar"
+  "center-content center-content center-content ."
+  "footer footer footer . "
+  ;
+}
+
+.item-1 {
+  grid-area: header;
+}
+
+.item-2{
+  grid-area: content;
+}
+
+.item-3 {
+  grid-area: sidebar;
+}
+.item-4 {
+  grid-area: footer;
+}
+
+.center-content {
+  grid-area: center-content;
+}
