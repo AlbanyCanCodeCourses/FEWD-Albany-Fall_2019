@@ -19,7 +19,7 @@ var names = [];
  * @returns {array}
  */
 
-var moreName = [];
+var moreNames = [];
 
 ///////////////////////////////////
 ////// Conditionals Statments /////
@@ -40,13 +40,6 @@ var moreName = [];
 /**
  * If "5" plus "5" is equal to "five plus five" print "they are the same value and type".
  * Otherwise, print "They are not the same value and type"
- * @returns {string}
- */
-
-/**
- * Check if the length of the new filtered array is an even or odd number.
- * If it is even, print "it is even".
- * Otherwise print "it is odd".
  * @returns {string}
  */
 
@@ -82,6 +75,13 @@ var combinedNames = [];
 /**
  * Remove all names in the combined names array that beging with the letters a, r, m
  * @returns {array}
+ */
+
+/**
+ * Check if the length of the new filtered array is an even or odd number.
+ * If it is even, print "it is even".
+ * Otherwise print "it is odd".
+ * @returns {string}
  */
 
 /**
