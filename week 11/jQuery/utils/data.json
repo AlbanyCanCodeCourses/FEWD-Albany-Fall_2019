@@ -1,0 +1,81 @@
+[
+  {
+    "company": "Marks Inc",
+    "address": "575 Di Loreto Road",
+    "phone": "(817) 5653151",
+    "email": "ahuntriss0@hao123.com",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  },
+  {
+    "company": "Waelchi LLC",
+    "address": "4 Utah Hill",
+    "phone": "(919) 6799280",
+    "email": "ssinncock1@hc360.com",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  },
+  {
+    "company": "Treutel Inc",
+    "address": "5 Mariners Cove Pass",
+    "phone": "(625) 3462422",
+    "email": "bphilot2@amazonaws.com",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  },
+  {
+    "company": "Moen-Balistreri",
+    "address": "2 Myrtle Park",
+    "phone": "(158) 8241299",
+    "email": "sbernardes3@cpanel.net",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  },
+  {
+    "company": "Osinski Group",
+    "address": "86 Valley Edge Parkway",
+    "phone": "(767) 1792236",
+    "email": "mleving4@theglobeandmail.com",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  },
+  {
+    "company": "Rolfson Group",
+    "address": "3179 Redwing Street",
+    "phone": "(211) 6402259",
+    "email": "ndinning5@feedburner.com",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  },
+  {
+    "company": "Stamm LLC",
+    "address": "1 Schurz Center",
+    "phone": "(701) 2277646",
+    "email": "adeambrosis6@nydailynews.com",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  },
+  {
+    "company": "O'Reilly Group",
+    "address": "060 Macpherson Terrace",
+    "phone": "(729) 8779781",
+    "email": "eleedes7@tamu.edu",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  },
+  {
+    "company": "Bailey, Kulas and Fisher",
+    "address": "90 Luster Junction",
+    "phone": "(457) 3147767",
+    "email": "espinas8@phoca.cz",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  },
+  {
+    "company": "Champlin-Metz",
+    "address": "7362 Sachtjen Trail",
+    "phone": "(558) 2305347",
+    "email": "acressingham9@google.com.au",
+    "storehoursOpen": "7:00 AM",
+    "storehoursClose": "7:00 PM"
+  }]

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Id Selectors</title>
+  </head>
+  <body>
+    <input id="button1" type="button" value="Click Me" />
+    <input id="button2" type="button" value="Click Button" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <script>
+      var btn1 = document.getElementById("button1");
+      console.log(btn1);
+      
+      $(document).ready(function() {});
+
+      var $btn1 = $("#button1");
+      console.log($btn1);
+    </script>
+  </body>
+</html>

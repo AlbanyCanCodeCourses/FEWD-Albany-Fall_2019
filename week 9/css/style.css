@@ -31,3 +31,7 @@ h5,
 h6 {
   font-family: "Sanchez", serif;
 }
+
+#container {
+  padding: 50px;
+}

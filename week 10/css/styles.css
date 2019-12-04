@@ -42,3 +42,12 @@ body {
   max-width: 100%;
   vertical-align: bottom;
 }
+
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block
+}

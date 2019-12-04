@@ -10,32 +10,49 @@ div.item {
 .grid-container {
   display: grid;
   gap: 20px;
-  grid-template-areas: 
-
-  "header header header header"
-  "content content content sidebar"
-  "content content content sidebar"
-  "content content content sidebar"
-  "center-content center-content center-content ."
-  "footer footer footer . "
-  ;
+  grid-template-areas:
+    "header"
+    "banner"
+    "main"
+    "sidebar"
+    "footer";
 }
 
-.item-1 {
-  grid-area: header;
+@media screen and (min-width: 650px) {
+  .grid-container {
+    grid-template-areas:
+      "header header header "
+      "banner banner banner"
+      "sidebar main main"
+      "footer footer footer";
+  }
+  .item-1 {
+    grid-area: header;
+  }
+
+  .item-2 {
+    grid-area: banner;
+  }
+
+  .item-3 {
+    grid-area: sidebar;
+  }
+
+  .item-4 {
+    grid-area: main;
+  }
+
+  .item-5 {
+    grid-area: footer;
+  }
 }
 
-.item-2{
-  grid-area: content;
-}
-
-.item-3 {
-  grid-area: sidebar;
-}
-.item-4 {
-  grid-area: footer;
-}
-
-.center-content {
-  grid-area: center-content;
+@media screen and (min-width: 900px) {
+  .grid-container {
+    grid-template-areas:
+      "header header header header"
+      "banner banner banner banner"
+      "sidebar main main main"
+      ". footer footer .";
+  }
 }
